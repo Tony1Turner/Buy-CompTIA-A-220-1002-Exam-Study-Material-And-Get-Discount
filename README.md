@@ -56,7 +56,6 @@
 <p><a href="https://en.wikipedia.org/wiki/Education" rel="noopener noreferrer" target="_blank"><strong>https://en.wikipedia.org/wiki/Education</strong></a></p>
 
 <p> </p>
-https://www.studocu.com/en/document/universite-de-mascara/data-centr/other/do-you-want-to-pass-netapp-ns0-300-exam-at-the-first-try/3998853/view
 https://www.slideserve.com/Micheal302/check-if-you-are-ready-to-pass-ibm-c1000-019-exam-or-not-powerpoint-ppt-presentation
 https://www.slideserve.com/Micheal302/try-these-microsoft-ms-100-exam-actual-questions-powerpoint-ppt-presentation
 https://www.slideserve.com/Micheal302/avaya-3312-exam-questions-and-answers-powerpoint-ppt-presentation
